@@ -163,6 +163,9 @@ span.l-left:before {
   background-size: contain;
   background-position: center;
 }
+.when p {
+  white-space: nowrap;
+}
 
 .description {
   color: #fff;
