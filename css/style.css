@@ -256,6 +256,9 @@ span.l-left:before {
     font-size: 9rem;
     padding: 0px 40px;
   }
+  .social__item {
+    gap: 20px;
+  }
 }
 
 @media screen and (max-width: 320px) {
