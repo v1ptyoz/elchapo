@@ -163,6 +163,7 @@ span.l-left:before {
   background-size: contain;
   background-position: center;
 }
+
 .when p {
   white-space: nowrap;
 }
@@ -190,6 +191,7 @@ span.l-left:before {
   text-align: center;
   margin: 0;
   padding: 0;
+  white-space: nowrap;
 }
 
 .promo__title {
@@ -209,12 +211,12 @@ span.l-left:before {
   }
   .main {
     width: 768px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   .promo {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 10px;
+    padding-right: 10px;
   }
   .social__item img {
     width: 60px;
@@ -227,7 +229,7 @@ span.l-left:before {
     font-size: 5px;
   }
   body {
-    background: url("../images/bg.jpg");
+    background-size: 25%, 25%, 25%, 25%, 25%, cover;
   }
   .main {
     width: 480px;
@@ -251,6 +253,8 @@ span.l-left:before {
   }
   .when {
     margin-top: 20px;
+    font-size: 9rem;
+    padding: 0px 40px;
   }
 }
 
