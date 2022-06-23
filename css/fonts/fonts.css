@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Soyuz';
+    src: url('soyuz_grotesk_bold-webfont.woff') format('woff'),
+    url('soyuz_grotesk_bold-webfont.ttf') format('truetype'),
+    url('soyuz_grotesk_bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Oswald';
+    src: url('OswaldMedium.woff') format('woff'),
+    url('OswaldMedium.ttf') format('truetype'),
+    url('OswaldMedium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Druk';
+    src: url('DrukCyr-Bold.woff') format('woff'),
+    url('DrukCyr-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
